@@ -114,6 +114,8 @@ a {
 }
 .about__content {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   padding: 50px 0;
 }
 .about__image {
